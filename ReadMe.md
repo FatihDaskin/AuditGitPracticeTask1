@@ -1,0 +1,1 @@
+Bu proje AuditGitPractice Task1 projesidir.
